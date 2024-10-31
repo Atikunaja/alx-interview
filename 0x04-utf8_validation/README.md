@@ -1,10 +1,24 @@
-0x04-utf8_validation
+0x04. UTF-8 Validation
+AlgorithmPython
 
+By Carrie Ybay, Software Engineer at Holberton School
 Resources
 Read or watch:
 
 UTF-8
 Characters, Symbols, and the Unicode Miracle
+
+
+
+Short SpecializationsAverage: 119.09%
+
+0x04. UTF-8 Validation
+
+AlgorithmPython
+
+ Weight: 1 Project will start Oct 28, 2024 6:00 AM, must end by Nov 1, 2024 6:00 AM Checker was released at Oct 29, 2024 6:00 AM An auto review will be launched at the deadline
+
+For the “0x04. UTF-8 Validation” project, you will need to apply your knowledge in bitwise operations, understanding of the UTF-8 encoding scheme, and Python programming skills to validate whether a given dataset represents a valid UTF-8 encoding. Here’s a list of concepts and resources that will be helpful:
 
 Concepts Needed:
 
@@ -31,3 +45,5 @@ Applying logical operations to make decisions within the program.
 By studying these concepts and utilizing the resources provided, you will be equipped to tackle the UTF-8 validation project, effectively applying bitwise operations and logical reasoning to determine the validity of UTF-8 encoded data.
 
 Additional ResourceMock Technical Interview
+
+
